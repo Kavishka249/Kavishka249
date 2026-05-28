@@ -24,11 +24,11 @@ I'm a student and a passionate developer who loves exploring web development, cu
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavishka249&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka249&layout=compact&theme=dracula" alt="Top Languages" height="180" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavishka249&theme=tokyonight)
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=footer&text=Happy%20Coding!&fontSize=25" width="100%" />
 ---
 
 ### 🕹️ Beyond Coding
