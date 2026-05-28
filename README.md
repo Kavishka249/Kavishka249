@@ -25,8 +25,8 @@ I'm a student and a passionate developer who loves exploring web development, cu
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="Kaviya's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavishka2459&show_icons=true&theme=tokyonight&count_private=true" alt="Kaviya's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka2459&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
