@@ -25,8 +25,9 @@ I'm a student and a passionate developer who loves exploring web development, cu
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavishka249&theme=tokyonight)
-<br/>
-<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=footer&text=Happy%20Coding!&fontSize=25" width="100%" />
+
+🚀 **My Trophies:**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kavishka249&theme=tokyonight&column=4)
 
 ---
 
