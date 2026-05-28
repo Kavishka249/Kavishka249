@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Kaviya! 👋
 
-<!--
-**Kavishka249/Kavishka249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Creative Developer & Tech Enthusiast
+I'm a student and a passionate developer who loves exploring web development, customizing Android systems, and diving into hardware performance trends. Always keen to learn new technologies and build cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| **OS Optimization** | ADB (Android Debug Bridge), Custom ROM Flashing & Debloating |
+
+---
+
+### 🎯 Current Projects & Focus
+* 🌐 Building creative developer portfolio sites using **HTML & CSS**.
+* 🛡️ Exploring penetration testing concepts with **Kali Linux**.
+* 📱 Android system modification and hardware tweaking.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="Kaviya's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 🕹️ Beyond Coding
+When I'm not tweaking code or custom ROMs, you'll probably find me gaming (huge fan of open-world shooters like *Far Cry*) or analyzing the latest flagship smartphone and PC hardware specs. 
+
+⚡ **Fun Fact:** I love fixing things—both software bugs and hardware sensors!
