@@ -26,8 +26,16 @@ I'm a student and a passionate developer who loves exploring web development, cu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavishka249&theme=tokyonight)
 
-🚀 **My Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kavishka249&theme=tokyonight&column=4)
+### 📊 Profile Overview & Metrics
+
+| Metric | Status / Badges |
+| :--- | :--- |
+| ⚡ **Account Status** | ![Active](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square) ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square) |
+| 🛠️ **Current Focus** | ![Web Dev](https://img.shields.io/badge/Web--Dev-HTML%20%26%20CSS-blue?style=flat-square) ![Android Mod](https://img.shields.io/badge/Android-Customization-green?style=flat-square) |
+| 🛡️ **Learning** | ![Sec](https://img.shields.io/badge/Kali%20Linux-Pentesting-blueviolet?style=flat-square) |
+| 📈 **Activity** | ![Commits](https://img.shields.io/badge/Contributions-Active-orange?style=flat-square) |
+
+---
 
 ---
 
