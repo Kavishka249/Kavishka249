@@ -32,6 +32,6 @@ I'm a student and a passionate developer who loves exploring web development, cu
 ---
 
 ### 🕹️ Beyond Coding
-When I'm not tweaking code or custom ROMs, you'll probably find me gaming (huge fan of open-world shooters like *Far Cry*) or analyzing the latest flagship smartphone and PC hardware specs. 
+When I'm not tweaking code or custom ROMs, you'll probably find me gaming or analyzing the latest flagship smartphone and PC hardware specs. 
 
 ⚡ **Fun Fact:** I love fixing things—both software bugs and hardware sensors!
