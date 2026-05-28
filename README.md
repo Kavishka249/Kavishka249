@@ -27,6 +27,8 @@ I'm a student and a passionate developer who loves exploring web development, cu
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavishka249&theme=tokyonight)
 
 <br/>
+<img width="553" height="264" alt="image" src="https://github.com/user-attachments/assets/1500c83c-6e6d-4c00-98ad-0d62b5b31e28" />
+
 
 <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=footer&text=Happy%20Coding!&fontSize=25" width="100%" />
 ---
